@@ -1,0 +1,15 @@
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\bin\Debug\net6.0\ACT00_REVISION_VersionBASE.exe
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\bin\Debug\net6.0\ACT00_REVISION_VersionBASE.deps.json
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\bin\Debug\net6.0\ACT00_REVISION_VersionBASE.runtimeconfig.json
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\bin\Debug\net6.0\ACT00_REVISION_VersionBASE.dll
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\bin\Debug\net6.0\ACT00_REVISION_VersionBASE.pdb
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.csproj.AssemblyReference.cache
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.AssemblyInfoInputs.cache
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.AssemblyInfo.cs
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.csproj.CoreCompileInputs.cache
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.dll
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\refint\ACT00_REVISION_VersionBASE.dll
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.pdb
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ACT00_REVISION_VersionBASE.genruntimeconfig.cache
+C:\Users\210278\source\repos\ACT00_REVISION_VersionBASE\ACT00_REVISION_VersionBASE\obj\Debug\net6.0\ref\ACT00_REVISION_VersionBASE.dll
