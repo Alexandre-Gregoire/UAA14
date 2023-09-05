@@ -1,0 +1,15 @@
+H:\UAA14\exercises1_Classe\exercises1_Classe\bin\Debug\net6.0\exercises1_Classe.exe
+H:\UAA14\exercises1_Classe\exercises1_Classe\bin\Debug\net6.0\exercises1_Classe.deps.json
+H:\UAA14\exercises1_Classe\exercises1_Classe\bin\Debug\net6.0\exercises1_Classe.runtimeconfig.json
+H:\UAA14\exercises1_Classe\exercises1_Classe\bin\Debug\net6.0\exercises1_Classe.dll
+H:\UAA14\exercises1_Classe\exercises1_Classe\bin\Debug\net6.0\exercises1_Classe.pdb
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.csproj.AssemblyReference.cache
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.AssemblyInfoInputs.cache
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.AssemblyInfo.cs
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.csproj.CoreCompileInputs.cache
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.dll
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\refint\exercises1_Classe.dll
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.pdb
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\exercises1_Classe.genruntimeconfig.cache
+H:\UAA14\exercises1_Classe\exercises1_Classe\obj\Debug\net6.0\ref\exercises1_Classe.dll
