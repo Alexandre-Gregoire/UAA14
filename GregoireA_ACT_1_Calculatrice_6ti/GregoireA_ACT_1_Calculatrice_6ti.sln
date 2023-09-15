@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GregoireA_ACT_1_Calculatrice_6ti", "GregoireA_ACT_1_Calculatrice_6ti\GregoireA_ACT_1_Calculatrice_6ti.csproj", "{B577EFE8-4252-4BE4-AE99-D0B97051A8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B577EFE8-4252-4BE4-AE99-D0B97051A8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B577EFE8-4252-4BE4-AE99-D0B97051A8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B577EFE8-4252-4BE4-AE99-D0B97051A8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B577EFE8-4252-4BE4-AE99-D0B97051A8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10A76BE-62F4-4B65-B508-3F2C2C066F6B}
+	EndGlobalSection
+EndGlobal

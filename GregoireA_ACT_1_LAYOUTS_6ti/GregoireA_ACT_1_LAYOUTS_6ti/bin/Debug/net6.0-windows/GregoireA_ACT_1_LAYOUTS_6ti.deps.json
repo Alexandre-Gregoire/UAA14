@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GregoireA_ACT_1_LAYOUTS_6ti/1.0.0": {
+        "runtime": {
+          "GregoireA_ACT_1_LAYOUTS_6ti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GregoireA_ACT_1_LAYOUTS_6ti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
