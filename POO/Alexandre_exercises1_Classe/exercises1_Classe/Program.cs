@@ -10,7 +10,7 @@ namespace exercises1_Classe
             
             Victor[] mesVictors = new Victor[10];
             Console.ForegroundColor = ConsoleColor.White;
-            string reponse = "";
+            
             Console.WriteLine("Géneration de vos Victor........");
             Thread.Sleep(1000);
             for (uint i = 0; i < 10; i++)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\UAA14\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj": {}
+    "H:\\UAA14\\WPF\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj": {}
   },
   "projects": {
-    "H:\\UAA14\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj": {
+    "H:\\UAA14\\WPF\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\UAA14\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj",
+        "projectUniqueName": "H:\\UAA14\\WPF\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj",
         "projectName": "GregoireA_ACT_1_Calculatrice_6ti",
-        "projectPath": "H:\\UAA14\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj",
+        "projectPath": "H:\\UAA14\\WPF\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti.csproj",
         "packagesPath": "C:\\Users\\210278\\.nuget\\packages\\",
-        "outputPath": "H:\\UAA14\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\obj\\",
+        "outputPath": "H:\\UAA14\\WPF\\GregoireA_ACT_1_Calculatrice_6ti\\GregoireA_ACT_1_Calculatrice_6ti\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
