@@ -1,0 +1,15 @@
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\bin\Debug\net6.0\I2P623_Gregoire.exe
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\bin\Debug\net6.0\I2P623_Gregoire.deps.json
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\bin\Debug\net6.0\I2P623_Gregoire.runtimeconfig.json
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\bin\Debug\net6.0\I2P623_Gregoire.dll
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\bin\Debug\net6.0\I2P623_Gregoire.pdb
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.csproj.AssemblyReference.cache
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.AssemblyInfoInputs.cache
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.AssemblyInfo.cs
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.csproj.CoreCompileInputs.cache
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.dll
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\refint\I2P623_Gregoire.dll
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.pdb
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\I2P623_Gregoire.genruntimeconfig.cache
+H:\UAA14\POO\I2P623_Gregoire\I2P623_Gregoire\obj\Debug\net6.0\ref\I2P623_Gregoire.dll
