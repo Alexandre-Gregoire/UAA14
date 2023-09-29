@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test wpf Event", "Test wpf Event\Test wpf Event.csproj", "{123B3EC8-AA35-4658-8C79-24D2FA12E22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123B3EC8-AA35-4658-8C79-24D2FA12E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123B3EC8-AA35-4658-8C79-24D2FA12E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123B3EC8-AA35-4658-8C79-24D2FA12E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123B3EC8-AA35-4658-8C79-24D2FA12E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449AD128-0FE8-4D37-ACC2-C9DF74C36DBA}
+	EndGlobalSection
+EndGlobal
