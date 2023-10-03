@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alexandre_ACT_2_POO_6ti/1.0.0": {
+        "runtime": {
+          "Alexandre_ACT_2_POO_6ti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alexandre_ACT_2_POO_6ti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

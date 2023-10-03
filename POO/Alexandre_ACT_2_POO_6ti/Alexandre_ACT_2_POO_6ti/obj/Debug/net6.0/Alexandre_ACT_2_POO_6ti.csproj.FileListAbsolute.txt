@@ -1,0 +1,15 @@
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.csproj.AssemblyReference.cache
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.AssemblyInfoInputs.cache
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.AssemblyInfo.cs
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.csproj.CoreCompileInputs.cache
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.exe
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.deps.json
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.runtimeconfig.json
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.dll
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.pdb
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.dll
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\refint\Alexandre_ACT_2_POO_6ti.dll
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.pdb
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.genruntimeconfig.cache
+H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\ref\Alexandre_ACT_2_POO_6ti.dll
