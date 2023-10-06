@@ -53,7 +53,7 @@ namespace GregoireA_ACT_1_LAYOUTS_6ti {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GregoireA_ACT_1_LAYOUTS_6ti;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GregoireA_ACT_1_LAYOUTS_6ti;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

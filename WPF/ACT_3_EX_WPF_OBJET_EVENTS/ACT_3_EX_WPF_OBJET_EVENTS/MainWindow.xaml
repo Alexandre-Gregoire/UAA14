@@ -22,11 +22,11 @@
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Text="A" Height="70" Width="36" Grid.Row="0" FontSize="48" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Text="B" Height="70" Width="36" Grid.Row="1" FontSize="48" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Text="C" Height="70" Width="36" Grid.Row="2" FontSize="48" FontWeight="Bold"/>
-        <TextBox TextWrapping="Wrap" Margin="20" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"/>
-        <TextBox TextWrapping="Wrap" Margin="20" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
-        <TextBox TextWrapping="Wrap" Margin="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
-        <Button Margin="20" Content="Calculer" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontSize="38" FontWeight="Bold"/>
-        <Button Margin="20" FontSize="30" FontWeight="Bold" Content="V" Grid.Column="2" Grid.Row="3" />
+        <TextBox x:Name="textBoxA" TextWrapping="Wrap" Margin="20" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBoxB" TextWrapping="Wrap" Margin="20" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBoxC" TextWrapping="Wrap" Margin="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnCalculer" Margin="20" Content="Calculer" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontSize="38" FontWeight="Bold"/>
+        <Button x:Name="BtnV" Margin="20" FontSize="30" FontWeight="Bold" Content="V" Grid.Column="2" Grid.Row="3" />
 
 
 

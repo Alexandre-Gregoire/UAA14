@@ -9,6 +9,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -20,9 +21,42 @@ namespace ACT_3_EX_WPF_OBJET_EVENTS
     /// </summary>
     public partial class MainWindow : Window
     {
+        MethodesDuProjet MesOutils = new MethodesDuProjet();
+        
+
+
         public MainWindow()
         {
             InitializeComponent();
+            BtnCalculer.Click += new RoutedEventHandler(BtnCalculer_Click);
+            BtnV.MouseEnter += new MouseEventHandler(BtnVChangeCouleurIn);
+            BtnV.MouseEnter += new MouseEventHandler(BtnVChangeCouleurOut);
+        }
+        private async void BtnCalculer_Click(object sender, RoutedEventArgs e)
+        {
+
+            if (double.TryParse(textBoxA.Text,out double a) && double.TryParse(textBoxB.Text, out double b) && double.TryParse(textBoxC.Text, out double c))
+            {   
+
+                string message = MesOutils.CalculTrinome(a,b,c);
+                AffichageReponse affichageReponseOutil = new AffichageReponse();
+
+                affichageReponseOutil.affichageReponse.Text = message;
+                affichageReponseOutil.Show();
+
+            }
+            else
+            {
+                MessageBox.Show("Veuillez entrez des chiffres valide");
+            }
+        }
+        private async void BtnVChangeCouleurIn(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private async void BtnVChangeCouleurOut(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

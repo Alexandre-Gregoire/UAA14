@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\210278\\source\\repos\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti.csproj",
+      "projectUniqueName": "H:\\UAA14\\WPF\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti.csproj",
       "projectName": "GregoireA_ACT_1_LAYOUTS_6ti",
-      "projectPath": "C:\\Users\\210278\\source\\repos\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti.csproj",
+      "projectPath": "H:\\UAA14\\WPF\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti.csproj",
       "packagesPath": "C:\\Users\\210278\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\210278\\source\\repos\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\obj\\",
+      "outputPath": "H:\\UAA14\\WPF\\GregoireA_ACT_1_LAYOUTS_6ti\\GregoireA_ACT_1_LAYOUTS_6ti\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
