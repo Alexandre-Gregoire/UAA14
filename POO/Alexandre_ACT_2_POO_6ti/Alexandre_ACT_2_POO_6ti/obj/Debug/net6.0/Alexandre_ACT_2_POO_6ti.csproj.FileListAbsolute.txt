@@ -13,3 +13,17 @@ H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\re
 H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.pdb
 H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.genruntimeconfig.cache
 H:\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\ref\Alexandre_ACT_2_POO_6ti.dll
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.exe
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.deps.json
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.runtimeconfig.json
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.dll
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\bin\Debug\net6.0\Alexandre_ACT_2_POO_6ti.pdb
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.AssemblyInfoInputs.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.AssemblyInfo.cs
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.csproj.CoreCompileInputs.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.dll
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\refint\Alexandre_ACT_2_POO_6ti.dll
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.pdb
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\Alexandre_ACT_2_POO_6ti.genruntimeconfig.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\POO\Alexandre_ACT_2_POO_6ti\Alexandre_ACT_2_POO_6ti\obj\Debug\net6.0\ref\Alexandre_ACT_2_POO_6ti.dll

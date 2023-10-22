@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\210278\\.nuget\\packages\\": {},
-    "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\agreg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti.csproj",
+      "projectUniqueName": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti.csproj",
       "projectName": "Alexandre_ACT_2_POO_6ti",
-      "projectPath": "H:\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti.csproj",
-      "packagesPath": "C:\\Users\\210278\\.nuget\\packages\\",
-      "outputPath": "H:\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\obj\\",
+      "projectPath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti.csproj",
+      "packagesPath": "C:\\Users\\agreg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\POO\\Alexandre_ACT_2_POO_6ti\\Alexandre_ACT_2_POO_6ti\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\210278\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\agreg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
