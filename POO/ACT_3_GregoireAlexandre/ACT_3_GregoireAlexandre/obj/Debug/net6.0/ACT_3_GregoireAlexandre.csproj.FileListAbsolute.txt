@@ -1,0 +1,15 @@
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\bin\Debug\net6.0\ACT_3_GregoireAlexandre.exe
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\bin\Debug\net6.0\ACT_3_GregoireAlexandre.deps.json
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\bin\Debug\net6.0\ACT_3_GregoireAlexandre.runtimeconfig.json
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\bin\Debug\net6.0\ACT_3_GregoireAlexandre.dll
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\bin\Debug\net6.0\ACT_3_GregoireAlexandre.pdb
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.csproj.AssemblyReference.cache
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.AssemblyInfoInputs.cache
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.AssemblyInfo.cs
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.csproj.CoreCompileInputs.cache
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.dll
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\refint\ACT_3_GregoireAlexandre.dll
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.pdb
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ACT_3_GregoireAlexandre.genruntimeconfig.cache
+C:\Users\210278\source\repos\ACT_3_GregoireAlexandre\ACT_3_GregoireAlexandre\obj\Debug\net6.0\ref\ACT_3_GregoireAlexandre.dll
