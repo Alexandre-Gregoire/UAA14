@@ -26,7 +26,7 @@
         <TextBox x:Name="textBoxB" TextWrapping="Wrap" Margin="20" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
         <TextBox x:Name="textBoxC" TextWrapping="Wrap" Margin="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
         <Button x:Name="BtnCalculer" Margin="20" Content="Calculer" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontSize="38" FontWeight="Bold"/>
-        <Button x:Name="BtnV" Margin="20" FontSize="30" FontWeight="Bold" Content="V" Grid.Column="2" Grid.Row="3" />
+        <Button x:Name="BtnV" Margin="20" FontSize="30" FontWeight="Bold" Content="V" Grid.Column="2" Grid.Row="3" Visibility="Hidden"/>
 
 
 

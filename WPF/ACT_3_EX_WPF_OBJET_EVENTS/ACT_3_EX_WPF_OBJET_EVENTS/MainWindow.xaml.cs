@@ -29,8 +29,8 @@ namespace ACT_3_EX_WPF_OBJET_EVENTS
         {
             InitializeComponent();
             BtnCalculer.Click += new RoutedEventHandler(BtnCalculer_Click);
-            BtnV.MouseEnter += new MouseEventHandler(BtnVChangeCouleurIn);
-            BtnV.MouseEnter += new MouseEventHandler(BtnVChangeCouleurOut);
+            BtnCalculer.MouseEnter += new MouseEventHandler(SurvolBouton);
+
         }
         private async void BtnCalculer_Click(object sender, RoutedEventArgs e)
         {
@@ -50,13 +50,10 @@ namespace ACT_3_EX_WPF_OBJET_EVENTS
                 MessageBox.Show("Veuillez entrez des chiffres valide");
             }
         }
-        private async void BtnVChangeCouleurIn(object sender, RoutedEventArgs e)
-        {
 
-        }
-        private async void BtnVChangeCouleurOut(object sender, RoutedEventArgs e)
+        private void SurvolBouton(object sender, MouseEventArgs e)
         {
-
+            BtnV.Visibility = Visibility.Visible;
         }
     }
 }
