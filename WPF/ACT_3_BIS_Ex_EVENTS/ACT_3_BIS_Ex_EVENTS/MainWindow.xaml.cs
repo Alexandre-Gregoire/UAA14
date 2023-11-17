@@ -23,6 +23,12 @@ namespace ACT_3_BIS_Ex_EVENTS
         public MainWindow()
         {
             InitializeComponent();
+            boutonCalculer.Click += new RoutedEventHandler(boutonCalculer_Click);
+        }
+
+        private async void boutonCalculer_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(nombrePersonne.Text);
         }
     }
 }

@@ -24,11 +24,20 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <GroupBox Margin="15" Header="TYPE DE LOGEMENT" Grid.RowSpan="2" Grid.ColumnSpan="2" Grid.Row="0" Grid.Column="0" FontSize="24" Foreground="LightYellow" BorderThickness="2" >
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <RadioButton VerticalContentAlignment="Center" Padding="0,10,0,10" Foreground="LightYellow">CHALET</RadioButton>
+                <RadioButton VerticalContentAlignment="Center" Padding="0,10,0,10" Foreground="LightYellow">TENTE</RadioButton>
+            </StackPanel>
         </GroupBox>
-        <GroupBox Margin="15" Header="CARACTERISTIQUE DU SEJOUR" Grid.RowSpan="3" Grid.ColumnSpan="3" Grid.Row="0" Grid.Column="3" FontSize="24" Foreground="LightYellow" BorderThickness="2" >
+        <GroupBox Margin="15" Header="CARACTERISTIQUE DU SEJOUR" Grid.RowSpan="3" Grid.ColumnSpan="4" Grid.Row="0" Grid.Column="2" FontSize="24" Foreground="LightYellow" BorderThickness="2" >
+            <StackPanel>
+                <TextBlock Text="Nbre de Personnes (entre 1 et 6) :"></TextBlock>
+                <TextBox x:Name="nombrePersonne" ></TextBox>
+            </StackPanel>
         </GroupBox>
         <GroupBox Margin="15" Header="RESULTATS" Grid.RowSpan="2" Grid.ColumnSpan="4" Grid.Row="3" Grid.Column="0" FontSize="24" Foreground="LightYellow" BorderThickness="2" >
         </GroupBox>
+        <Button x:Name="boutonCalculer" Grid.Column="4" Grid.Row="3" Grid.ColumnSpan="2" Margin="50,25,50,25" FontSize="20">CALCULER</Button>
 
 
     </Grid>

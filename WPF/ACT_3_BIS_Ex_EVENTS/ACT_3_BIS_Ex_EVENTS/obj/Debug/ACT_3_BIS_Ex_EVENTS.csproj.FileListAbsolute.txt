@@ -1,0 +1,15 @@
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\bin\Debug\ACT_3_BIS_Ex_EVENTS.exe.config
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\bin\Debug\ACT_3_BIS_Ex_EVENTS.exe
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\bin\Debug\ACT_3_BIS_Ex_EVENTS.pdb
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.csproj.AssemblyReference.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\MainWindow.g.cs
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\App.g.cs
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS_MarkupCompile.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS_MarkupCompile.lref
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\MainWindow.baml
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.g.resources
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.Properties.Resources.resources
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.csproj.GenerateResource.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.csproj.CoreCompileInputs.cache
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.exe
+C:\Users\agreg\OneDrive\Documents\UAA14\WPF\ACT_3_BIS_Ex_EVENTS\ACT_3_BIS_Ex_EVENTS\obj\Debug\ACT_3_BIS_Ex_EVENTS.pdb
