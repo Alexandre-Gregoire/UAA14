@@ -1,0 +1,15 @@
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\bin\Debug\net6.0\Exercises_1_Vehicules.exe
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\bin\Debug\net6.0\Exercises_1_Vehicules.deps.json
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\bin\Debug\net6.0\Exercises_1_Vehicules.runtimeconfig.json
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\bin\Debug\net6.0\Exercises_1_Vehicules.dll
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\bin\Debug\net6.0\Exercises_1_Vehicules.pdb
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.csproj.AssemblyReference.cache
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.AssemblyInfoInputs.cache
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.AssemblyInfo.cs
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.csproj.CoreCompileInputs.cache
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.dll
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\refint\Exercises_1_Vehicules.dll
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.pdb
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\Exercises_1_Vehicules.genruntimeconfig.cache
+H:\UAA14\POO\6TI_ACT6_GregoireA\Exercises_1_Vehicules\Exercises_1_Vehicules\obj\Debug\net6.0\ref\Exercises_1_Vehicules.dll

@@ -24,11 +24,34 @@ namespace ACT_3_BIS_Ex_EVENTS
         {
             InitializeComponent();
             boutonCalculer.Click += new RoutedEventHandler(boutonCalculer_Click);
+
         }
 
         private async void boutonCalculer_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(nombrePersonne.Text);
+            if (radioButtonChalet.IsChecked == true || radioButtonTente.IsChecked == true)
+            {
+                bool typeLogement = (bool)radioButtonChalet.IsChecked; //true = chalet | false = tente
+                if (nombrePersonne.Text == null || dateArrive.Text == null || dateSortie.Text == null)
+                {
+                    int NombrePersonne = int.Parse(nombrePersonne.Text);
+                    DateTime DateArrive = DateTime.Parse(dateArrive.Text);
+                    DateTime DateSortie = DateTime.Parse(dateSortie.Text);
+
+                    TimeSpan TempEcouler = DateArrive - DateSortie;
+                    MessageBox.Show(TempEcouler.ToString());
+                }
+                else
+                {
+                    MessageBox.Show("Veuillez complétez les caracteristique du sejours");
+                }
+                
+                
+            }
+            else
+            {
+                MessageBox.Show("Veuillez choisir un des deux type de logements disponible");
+            }
         }
     }
 }
