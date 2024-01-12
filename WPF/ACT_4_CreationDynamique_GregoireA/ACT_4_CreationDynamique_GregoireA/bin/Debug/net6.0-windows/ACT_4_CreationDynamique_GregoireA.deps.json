@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACT_4_CreationDynamique_GregoireA/1.0.0": {
+        "runtime": {
+          "ACT_4_CreationDynamique_GregoireA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT_4_CreationDynamique_GregoireA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
