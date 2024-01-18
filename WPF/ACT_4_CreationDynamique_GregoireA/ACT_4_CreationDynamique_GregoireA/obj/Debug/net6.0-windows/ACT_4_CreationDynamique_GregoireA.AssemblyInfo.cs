@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT_4_CreationDynamique_GregoireA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782b94f1ec6b5413a0960935f50f90dfe88291c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT_4_CreationDynamique_GregoireA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT_4_CreationDynamique_GregoireA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

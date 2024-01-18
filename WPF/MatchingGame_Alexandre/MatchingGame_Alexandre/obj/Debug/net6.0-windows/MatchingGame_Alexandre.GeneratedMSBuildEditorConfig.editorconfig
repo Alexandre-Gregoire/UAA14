@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MatchingGame_Alexandre
-build_property.ProjectDir = H:\UAA14\WPF\MatchingGame_Alexandre\MatchingGame_Alexandre\
+build_property.ProjectDir = C:\Users\agreg\OneDrive\Documents\UAA14\WPF\MatchingGame_Alexandre\MatchingGame_Alexandre\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

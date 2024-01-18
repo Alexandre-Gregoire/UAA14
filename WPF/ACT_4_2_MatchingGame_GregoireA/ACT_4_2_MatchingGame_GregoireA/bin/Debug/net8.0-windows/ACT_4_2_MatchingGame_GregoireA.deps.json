@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ACT_4_2_MatchingGame_GregoireA/1.0.0": {
+        "runtime": {
+          "ACT_4_2_MatchingGame_GregoireA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT_4_2_MatchingGame_GregoireA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
