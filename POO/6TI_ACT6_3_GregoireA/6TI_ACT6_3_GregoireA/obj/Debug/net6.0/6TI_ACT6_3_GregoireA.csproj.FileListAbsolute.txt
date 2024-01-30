@@ -1,0 +1,15 @@
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\bin\Debug\net6.0\6TI_ACT6_3_GregoireA.exe
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\bin\Debug\net6.0\6TI_ACT6_3_GregoireA.deps.json
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\bin\Debug\net6.0\6TI_ACT6_3_GregoireA.runtimeconfig.json
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\bin\Debug\net6.0\6TI_ACT6_3_GregoireA.dll
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\bin\Debug\net6.0\6TI_ACT6_3_GregoireA.pdb
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.csproj.AssemblyReference.cache
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.AssemblyInfoInputs.cache
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.AssemblyInfo.cs
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.csproj.CoreCompileInputs.cache
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.dll
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\refint\6TI_ACT6_3_GregoireA.dll
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.pdb
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\6TI_ACT6_3_GregoireA.genruntimeconfig.cache
+H:\UAA14\POO\6TI_ACT6_3_GregoireA\6TI_ACT6_3_GregoireA\obj\Debug\net6.0\ref\6TI_ACT6_3_GregoireA.dll

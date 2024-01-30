@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Forme carre = new Carre("rouge",10);
+            Forme rectangle = new Rectangle("rouge", 10, 15);
+            Console.WriteLine(carre.affiche());
+            Console.WriteLine(rectangle.affiche());
+
         }
     }
 }

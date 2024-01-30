@@ -23,6 +23,14 @@ namespace _6TI_ACT6_3_GregoireA
 		{
 			return "la couleur est de :" + _couleur;
 		}
+		public virtual int CalculeSurface()
+		{
+			return 0;
+		}
+		public virtual int CalculePerimetre()
+		{
+			return 0;
+		}
 
 	}
 }
