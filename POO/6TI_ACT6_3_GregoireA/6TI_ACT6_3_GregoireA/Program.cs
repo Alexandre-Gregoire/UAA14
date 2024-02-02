@@ -6,8 +6,8 @@
         {
             Forme carre = new Carre("rouge",10);
             Forme rectangle = new Rectangle("rouge", 10, 15);
-            Console.WriteLine(carre.affiche());
-            Console.WriteLine(rectangle.affiche());
+            Console.WriteLine("carre : " + carre.affiche());
+            Console.WriteLine("rectangle : " + rectangle.affiche());
 
         }
     }
