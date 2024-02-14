@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4scNun66IBdVaz/AZTMvbl+xBDEuQZrWzVHJstxzmIfzl0X7dyYbXBOX8hKF0a6RdspQEAxWpat9B7csZPc5kg==",
+  "dgSpecHash": "ILXdFVQXs6Au2moIF8MGcZKAf0+cAqkF3aBuGRmmqnSpGWAOB4zeJtXcNbA8Qcew+BHXJRfSVLM2RTK+R1SH4g==",
   "success": true,
-  "projectFilePath": "H:\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agreg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\agreg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\agreg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\agreg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

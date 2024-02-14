@@ -13,9 +13,9 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
         private int _numChien;
 		private bool _gagne;
 		private Image _imageChien;
-		private int[] _positionCourante;
+		private int _positionCourante;
 
-		public int[] PositionCourante
+		public int PositionCourante
         {
 			get { return _positionCourante; }
 			set { _positionCourante = value; }
@@ -38,11 +38,18 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
 			get { return _numChien; }
 			set { _numChien = value; }
 		}
-
-		public void Court()
+		
+		public Chien(int positionCourante,Image imageChien,bool gagne,int numChien)
 		{
-			PositionCourante[0] += Alea.Next(1, 10);
+			_gagne=gagne;
+			_imageChien=imageChien;
+			_positionCourante=positionCourante;
+			_numChien=numChien;
 		}
+		public double Court()
+		{
+			return Alea.Next(1, 10);
+        }
 
 	}
 }

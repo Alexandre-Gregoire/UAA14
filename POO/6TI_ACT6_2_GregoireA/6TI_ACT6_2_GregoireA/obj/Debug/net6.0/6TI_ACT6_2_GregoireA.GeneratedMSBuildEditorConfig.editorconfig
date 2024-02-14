@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _6TI_ACT6_2_GregoireA
-build_property.ProjectDir = H:\UAA14\POO\6TI_ACT6_2_GregoireA\6TI_ACT6_2_GregoireA\
+build_property.ProjectDir = C:\Users\agreg\OneDrive\Documents\UAA14\POO\6TI_ACT6_2_GregoireA\6TI_ACT6_2_GregoireA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

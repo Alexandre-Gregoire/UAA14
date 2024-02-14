@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT_4_3_Damiers_GregoireA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf89927bd2dba2cec674fa9c92154b92f144375")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT_4_3_Damiers_GregoireA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT_4_3_Damiers_GregoireA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

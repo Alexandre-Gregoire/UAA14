@@ -14,6 +14,7 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
 		private int _cash;
 		private TextBlock _textBlockEtatPari;
 
+		
 		public TextBlock TextBlockEtatPari
 		{
 			get { return _textBlockEtatPari; }

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|c:\\users\\agreg\\onedrive\\documents\\uaa14\\wpf\\act_3_ex_wpf_objet_events\\act_3_ex_wpf_objet_events\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|solutionrelative:act_3_ex_wpf_objet_events\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|c:\\users\\agreg\\onedrive\\documents\\uaa14\\wpf\\act_3_ex_wpf_objet_events\\act_3_ex_wpf_objet_events\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|solutionrelative:act_3_ex_wpf_objet_events\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|c:\\users\\agreg\\onedrive\\documents\\uaa14\\wpf\\act_3_ex_wpf_objet_events\\act_3_ex_wpf_objet_events\\affichagereponse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BC3D4-E01A-4D10-946B-03A85413F434}|ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS.csproj|solutionrelative:act_3_ex_wpf_objet_events\\affichagereponse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AffichageReponse.xaml",
+              "DocumentMoniker": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\AffichageReponse.xaml",
+              "RelativeDocumentMoniker": "ACT_3_EX_WPF_OBJET_EVENTS\\AffichageReponse.xaml",
+              "ToolTip": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\AffichageReponse.xaml",
+              "RelativeToolTip": "ACT_3_EX_WPF_OBJET_EVENTS\\AffichageReponse.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-13T13:20:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T13:20:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF\\ACT_3_EX_WPF_OBJET_EVENTS\\ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml",
+              "RelativeToolTip": "ACT_3_EX_WPF_OBJET_EVENTS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-13T13:20:55.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

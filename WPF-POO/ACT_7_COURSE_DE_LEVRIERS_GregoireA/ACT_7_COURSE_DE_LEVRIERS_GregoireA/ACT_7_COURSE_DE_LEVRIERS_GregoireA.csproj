@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="assets\dog.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="assets\racetrack.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
