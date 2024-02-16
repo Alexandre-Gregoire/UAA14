@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\agreg\\.nuget\\packages\\": {}
+    "C:\\Users\\210278\\.nuget\\packages\\": {},
+    "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
+      "projectUniqueName": "H:\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
       "projectName": "ACT_7_COURSE_DE_LEVRIERS_GregoireA",
-      "projectPath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
-      "packagesPath": "C:\\Users\\agreg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agreg\\OneDrive\\Documents\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\obj\\",
+      "projectPath": "H:\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA.csproj",
+      "packagesPath": "C:\\Users\\210278\\.nuget\\packages\\",
+      "outputPath": "H:\\UAA14\\WPF-POO\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\ACT_7_COURSE_DE_LEVRIERS_GregoireA\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "d:\\soft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\agreg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\210278\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,11 +46,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,24 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -87,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

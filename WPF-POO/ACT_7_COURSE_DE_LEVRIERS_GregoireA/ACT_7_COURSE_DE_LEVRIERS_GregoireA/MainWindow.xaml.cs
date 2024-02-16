@@ -11,12 +11,12 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        Chien[] chiens = new Chien[4];
         public MainWindow()
         {
             InitializeComponent();
             
-            Chien[] chiens = new Chien[4];
+
             for (int i = 0; i < 4; i++)
             {
                 BitmapImage imageChien = new BitmapImage();
@@ -36,7 +36,7 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
             }
 
 
-
+            //
 
         }
         private async void btnLancer_click(object sender, RoutedEventArgs e)
