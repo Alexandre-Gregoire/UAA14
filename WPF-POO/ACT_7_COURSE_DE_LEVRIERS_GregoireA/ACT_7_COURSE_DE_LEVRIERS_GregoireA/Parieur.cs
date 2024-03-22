@@ -39,5 +39,13 @@ namespace ACT_7_COURSE_DE_LEVRIERS_GregoireA
 			set { _nom = value; }
 		}
 
+		public Parieur(string nom,Pari monPari,int cash)
+		{
+			_nom = nom;
+			_monPari = monPari;
+			_cash = cash;
+
+		}
+
 	}
 }

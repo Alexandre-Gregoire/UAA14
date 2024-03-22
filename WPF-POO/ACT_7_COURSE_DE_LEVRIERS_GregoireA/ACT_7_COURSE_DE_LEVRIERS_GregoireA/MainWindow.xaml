@@ -24,9 +24,9 @@
             </Grid.RowDefinitions>
             <StackPanel>
                 <TextBlock FontSize="25" FontWeight="Bold">Paris minimum : 5 écus</TextBlock>
-                <CheckBox FontSize="25">Joe possède x écus</CheckBox>
-                <CheckBox FontSize="25">Bob possède x écus</CheckBox>
-                <CheckBox FontSize="25">Bill possède x écus</CheckBox>
+                <RadioButton FontSize="25" Content="Joe possède x écus" x:Name="JoeBal"></RadioButton>
+                <RadioButton FontSize="25" Content="Bob possède x écus" x:Name="BobBal"></RadioButton>
+                <RadioButton FontSize="25" Content="Bill possède x écus" x:Name="BillBal"></RadioButton>
             </StackPanel>
             <StackPanel Grid.Column="1">
                 <TextBlock FontSize="25" FontWeight="Bold">Paris minimum : 5 écus</TextBlock>
@@ -35,8 +35,8 @@
                 <TextBlock FontSize="25">Bill n'a pas encore parié</TextBlock>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2">
-                <TextBlock FontSize="25">Bill</TextBlock>
-                <Button Margin="5,0,5,0" Height="35" VerticalAlignment="Top" FontSize="25">Parie</Button>
+                <TextBlock FontSize="25" x:Name="NomParieur" Text="Bill"></TextBlock>
+                <Button Margin="5,0,5,0" Height="35" VerticalAlignment="Top" FontSize="25" x:Name="btnParie">Parie</Button>
                 <TextBox Margin="5,0,5,0" FontSize="25" Height="35" VerticalAlignment="Top">0</TextBox>
                 <TextBlock Margin="5,0,5,0" FontSize="25">écus sur le chien numéro </TextBlock>
                 <TextBox Margin="5,0,5,0" FontSize="25" Height="35" VerticalAlignment="Top">0</TextBox>
